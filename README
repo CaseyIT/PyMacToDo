@@ -1,2 +1,12 @@
 A ToDo List Manager written in Python
 
+Writes to a file named todo.txt 
+
+Allows user to manage a very simple ToDo List within Mac OSX Terminal.
+
+User can append or delete items from the list from Terminal.
+
+
+
+
+
