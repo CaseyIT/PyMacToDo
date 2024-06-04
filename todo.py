@@ -1,6 +1,6 @@
 #!/usr/bin/python 
 # To Do List Manager for OSX 
-# Pete Rohde
+# 
 # Casey IT LLC
 # 4-4-11
 
